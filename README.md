@@ -15,7 +15,7 @@ font-family: 'Cafe24 Syongsyong';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Syongsyong/Cafe24Syongsyong.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Syongsyong/Cafe24Syongsyong.css" type="text/css"/>
 ```
 
 &nbsp;
